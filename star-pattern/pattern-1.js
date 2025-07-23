@@ -1,3 +1,9 @@
+// Create a star pattern which having output below: 
+// ****
+// ****
+// ****
+// ****
+
 const n = 4;
 
 function createStarPattern(n) {
@@ -13,8 +19,3 @@ function createStarPattern(n) {
 
 createStarPattern(n)
 
-// output: 
-// ****
-// ****
-// ****
-// ****
